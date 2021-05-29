@@ -28,3 +28,15 @@ while to examine them one by one, but I gained important information.
 
 I have collected almost 10-15 data sources now, but as my research continues, this number may increase in the future. 
 I will share the data according to the course of the project.
+
+
+References
+1)https://www.tandfonline.com/doi/full/10.1080/13504851.2020.1861190
+2)https://www.nber.org/papers/w26945
+3)https://www.sciencedirect.com/science/article/pii/S0275531921000404
+4)https://www.tandfonline.com/doi/full/10.1080/20954816.2020.1780695
+5)https://www.sciencedirect.com/science/article/pii/S0275531920309673
+6)https://www.tandfonline.com/doi/full/10.1080/1540496X.2020.1784719
+7)https://www.tandfonline.com/doi/full/10.1080/1540496X.2020.1785865
+8)https://www.koreascience.or.kr/article/JAKO202020952022559.page
+9)http://www.itsr.ir/Content/upload/O79CB-COVIDEconomicCrisis.pdf#page=70
