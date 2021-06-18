@@ -1,6 +1,6 @@
 # Covid-19's effect on the stock market
 
-##PRESENTATION VIDEO LINK
+## PRESENTATION VIDEO LINK
 
 https://youtu.be/jxCTGv7QXog
 
