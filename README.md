@@ -1,4 +1,8 @@
-### Covid-19's effect on the stock market
+# Covid-19's effect on the stock market
+
+##PRESENTATION VIDEO LINK
+
+https://youtu.be/jxCTGv7QXog
 
 Step A - About the problem
 
